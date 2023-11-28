@@ -1,0 +1,4 @@
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\Banco\obj\Release\net7.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\Banco\obj\Release\net7.0\Banco.AssemblyInfoInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\Banco\obj\Release\net7.0\Banco.AssemblyInfo.cs
+C:\Users\dmelnez\Desktop\Programacion\Ejercicio04-Ordena\Banco\obj\Release\net7.0\Banco.csproj.CoreCompileInputs.cache
